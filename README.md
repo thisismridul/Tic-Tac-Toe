@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
 
-This is a Project of simple implentation of the vintage Tic-Tac-Toe game, where a player fills a 'X' or 'O' in the 9 spaces of the board.
+This is a Project of simple implementation of the vintage Tic-Tac-Toe game, where a player fills an 'X' or 'O' in the 9 spaces of the board.
 
-The game board is stored as a 3x3 2D array of characters, and each player takes turns selecting a cell to place their token ('x' or '0') until either one player wins or the game ends in a tie.
+The game board is stored as a 3x3 2D array of characters, and each player takes turns selecting a cell to place their token ('X' or 'O') until either one player wins or the game ends in a tie.
 
 The program starts by prompting the user to enter the names of the two players. It then enters a loop where it repeatedly displays the game board, asks the current player to select a cell to place their token, and checks if the game has ended.
 
